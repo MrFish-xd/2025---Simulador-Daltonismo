@@ -8,3 +8,4 @@ Esto lo conseguimos con:
 · Arduino UNO: Es el encargado de proporcionar energía y de cargar el código a la ESP32-CAM. También se encarga de recibir los datos de las acciones realizadas por los usuarios y mostrarlos en Arduino IDE.
 
 · Servo de 180º: Es el encargado de mover la cámara, simulando una visión periférica. Este es controlado por la página web para que los usuarios puedan ver el entorno.
+ Creado por - Jeremais Lopez - León Rivadero
