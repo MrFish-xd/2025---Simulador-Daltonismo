@@ -10,7 +10,7 @@ Esto lo conseguimos con:
 · Servo de 180º: Es el encargado de mover la cámara, simulando una visión periférica. Este es controlado por la página web para que los usuarios puedan ver el entorno.
 
  Creado por:
- - Jeremais Lopez
+ - Jeremias Lopez
  - León Rivadero
  - Amaya Florencia
  - González Agostina
